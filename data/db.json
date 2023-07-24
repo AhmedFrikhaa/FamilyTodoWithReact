@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "jib khobez",
+      "body": "jib khobez lel ftour ",
+      "author": "Dad",
+      "id": 3
+    },
+    {
+      "title": "Kharej poubelle",
+      "body": "kharej poubelle le tamel erriha f dar ayech weldi ",
+      "author": "Mom",
+      "id": 4
+    },
+    {
+      "title": "Flous l permis",
+      "body": "lezmni nkhalso lyouma f 5 sweyaa3 , hadhrouli l flous ",
+      "author": "Ismail",
+      "id": 5
+    },
+    {
+      "title": "hezouni lel bhar",
+      "body": "nheeb nemchi lel bhar , rahi skhaana w khaliwni ghadika nhar kemel",
+      "author": "Adam",
+      "id": 6
+    }
+  ]
+}
